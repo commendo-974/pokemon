@@ -1,0 +1,47 @@
+.parent{
+ background-image: url("/home/romain/Images/img.gif");
+ background-size: cover;
+width: 772px;
+height: 504px;
+border: 2px rgb(0, 0, 0) solid;
+margin-left: 21%;
+margin-top: 6%;
+}
+
+
+
+.parti_haut{
+width: 100%;
+height: 66%;
+border-bottom: 2px black solid;
+}
+
+.parti_bas{
+    width: 100%;
+    height: 38.6%;
+}
+
+.gauche{
+width: 49.3%;
+height: 82.5%;
+background: linear-gradient(to right, #345291,  #3483af 100%);
+border-top-left-radius: 15px;
+border-bottom-left-radius: 15px;
+float: left;
+border-top: 3px rgb(143, 88, 155) solid;
+border-left: 20px rgb(143, 88, 155) solid;
+border-top-left-radius: 15px;
+border-bottom-left-radius: 15px;
+border-bottom: 7px rgb(143, 88, 155) solid;
+}
+
+
+
+.droite{
+    width: 46.81%;
+    height: 82.5%;
+    background-color: rgb(255, 255, 255);
+    float: right;  
+border: 5px rgb(112, 104, 128) solid;
+  
+}
